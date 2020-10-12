@@ -138,7 +138,7 @@
             this.lbResultado2.Name = "lbResultado2";
             this.lbResultado2.Size = new System.Drawing.Size(27, 20);
             this.lbResultado2.TabIndex = 1;
-            this.lbResultado2.Text = "12";
+            this.lbResultado2.Text = "22";
             // 
             // btnSumar2
             // 
@@ -148,7 +148,7 @@
             this.btnSumar2.TabIndex = 2;
             this.btnSumar2.Text = "Sumar";
             this.btnSumar2.UseVisualStyleBackColor = true;
-            this.btnSumar2.Click += new System.EventHandler(this.btnSumar_Click);
+            this.btnSumar2.Click += new System.EventHandler(this.btnSumar2_Click);
             // 
             // label6
             // 
