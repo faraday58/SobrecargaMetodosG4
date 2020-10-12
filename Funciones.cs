@@ -7,5 +7,10 @@ namespace SobrecargaMetodosG4
         {
             return a + b;
         }
+
+        public float sumar(float a, float b, float c)
+        {
+            return a + b + c;
+        }
     }
 }
